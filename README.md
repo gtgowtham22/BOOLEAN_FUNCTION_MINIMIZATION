@@ -49,7 +49,8 @@ Developed by: RegisterNumber:*/
 ![ep322 modified](https://github.com/user-attachments/assets/da95e8f6-8e97-4109-95cc-8f52af0c3887)
 
 **Timing Diagram**
-![ep322 wave form](https://github.com/user-attachments/assets/e2ccd78e-c314-4d77-9e2a-aa99f7bbd923)
+![WhatsApp Image 2024-10-29 at 11 07 40 AM](https://github.com/user-attachments/assets/12ff01e1-ff60-432c-82e6-cd2f9c806621)
+
 
 **Result:**
 
